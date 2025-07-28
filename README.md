@@ -1,0 +1,2 @@
+# Early-Detection-of-Costal-Hazards-by-Using-Embedded-Systems
+This project aims to develop a low-cost, IoT-enabled coastal hazard detection system designed to protect vulnerable communities from natural disasters such as tsunamis, storm surges, and extreme weather events. Built using the NodeMCU microcontroller, the system integrates multiple environmental sensors and communication modules to enable 

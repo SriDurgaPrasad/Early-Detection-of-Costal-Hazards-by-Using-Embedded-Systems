@@ -13,3 +13,10 @@ On the receiver side:
 Sensor data is transmitted via WiFi to the ThingSpeak cloud platform for real-time visualization and trend analysis. The system continuously monitors temperature, humidity, pressure, and altitude levels. If any of these parameters exceed safe thresholds, the system automatically triggers a buzzer alert and sends SMS warnings to ensure rapid awareness and response.
 
 This dual-alert mechanism—local (buzzer) and remote (SMS)—ensures immediate communication of potential hazards. By analyzing these environmental conditions, the setup can detect early warning signs of coastal threats and help initiate timely preventive actions.
+
+
+OUTPUT:
+![op1](https://github.com/user-attachments/assets/10ca62cd-6b77-4465-b62f-d3ce1080e44c)
+![op2](https://github.com/user-attachments/assets/2b0f27d3-4512-479a-a40d-955eb82ab29d)
+![smsop](https://github.com/user-attachments/assets/3c61bef9-d6e2-4a73-a348-54048bb0a354)
+

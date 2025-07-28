@@ -16,7 +16,7 @@ This dual-alert mechanism—local (buzzer) and remote (SMS)—ensures immediate 
 
 
 OUTPUT:
-[WATCH THIS CONNECTIONS] (./VideoOp1.mp4)
+[WATCH THIS CONNECTIONS] (./Videooutput.mp4)
 ![op1](https://github.com/user-attachments/assets/10ca62cd-6b77-4465-b62f-d3ce1080e44c)
 ![op2](https://github.com/user-attachments/assets/2b0f27d3-4512-479a-a40d-955eb82ab29d)
 ![smsop](https://github.com/user-attachments/assets/3c61bef9-d6e2-4a73-a348-54048bb0a354)
